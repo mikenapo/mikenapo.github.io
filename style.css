@@ -1,14 +1,7 @@
 body {
-  color: blue;
-  font-size: 20px;
-  text-allign: center;
+  padding-top: 50px;
 }
-.hidden-links {
-  text-decoration: none;
-  color: #536482
-}
-#first-paragraph {
-  font-family: helvetica, sans-serif;
-  font-size: 16px;
-  color: blue;
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
 }
