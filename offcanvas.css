@@ -1,10 +1,18 @@
-<!doctype html>
-<html>
-    <head>
-
-      <nav class="navbar navbar-inverse">
-        ...
-      </nav>
-
-    </head>
-</html>
+h1 {
+  color: green;
+  text-align: center;
+  font-size: 50px;
+}
+h2 {
+  color: blue;
+  text-align: center;
+}
+header {
+  font-size: 25px;
+  text-align: center;
+  text-decoration: underline;
+}
+p {
+  font-size: 20px;
+  text-align: center;
+}
